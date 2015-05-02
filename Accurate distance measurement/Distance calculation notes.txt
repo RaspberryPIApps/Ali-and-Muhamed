@@ -1,0 +1,12 @@
+The following points will summarize how we calculated the distance (in inches) for a specifica object (blue ball with a diameter of 4.5 inches)
+
+1- the excel sheet depitcs a simple table that contains some data, the first column represens the width, or height of the red square that is drawn above our selected object, and the correpsponding distance in the second column represents the measured distance in inches.
+
+2- these data was entered and scattered and the approximate equation is depictted by 
+
+y = 1804.1 x (-.1.145)
+
+3- This equation is injected to the program to calculate the distance for any given measure of the square sides that is drawn around the object
+
+4- to find the error percentage, Excel contains R2, a fit-of-goodness that represents how accurate our proposed equation in calculating the distance, the more R2 value the better the fit of goodness.
+
