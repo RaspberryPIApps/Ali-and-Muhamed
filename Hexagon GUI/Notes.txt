@@ -1,5 +1,0 @@
-The screen shots taken from the raspberry pi are done by an application called scrot, and it can be installed on the raspberry pi using the following command: 
-
-sudo apt-get install scrot
-
-the usage is just basic, just type scrot in the startx and the whole screen will be captured 
